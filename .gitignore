@@ -1,0 +1,16 @@
+# Build
+cmake-build-*/
+build/
+a.out
+*.o
+
+# IDE
+.idea/
+*.cbp
+
+# Test artifacts
+o/
+*.txt
+!CMakeLists.txt
+v6fs*
+report/
